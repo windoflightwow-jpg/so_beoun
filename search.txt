@@ -1,0 +1,16 @@
+1. 상품 정하기
+
+상품 이름 : 몬스터 제로
+
+카테고리 : 식품
+
+2. 상품 이미지 찾기
+https://img.danuri.io/catalog-image/000/236/006/ac2b2fb6a7f04e2995ebf953cecfd40a.jpg
+https://cdn.eyesmag.com/content/uploads/posts/2022/07/11/3-c3c09198-b0d9-4368-9ae5-ca441a731567.jpg
+https://web-assests.monsterenergy.com/mnst/3f06b8ad-99f5-488e-9ce2-712db166e9af.png
+3. 상품을 홍보하는 사이트 3개 찾기
+https://www.coupang.com/vp/products/8424947419?itemId=24411503064&vendorItemId=3031645211&pickType=COU_PICK&sourceType=srp_product_ads&clickEventId=dc40b3c0-c605-11f1-9573-cfaff5133c6a&clickEventId=dc40b3c0-c605-11f1-9573-cfaff5133c6a&korePlacement=15&korePlacement=15&koreSubPlacement=5&koreSubPlacement=5&q=%EB%AA%AC%EC%8A%A4%ED%84%B0&searchId=02d697536736526&searchRank=1&traceId=mv4vcsp5
+https://itempage3.auction.co.kr/DetailView.aspx?itemno=F454120718
+https://item.gmarket.co.kr/Item?spm=gmktpc.searchlist.toporganictier.d0_3.7e5738f5daNGmA&goodscode=4342904682&utparam-url=%7B%22x_object_type%22%3A%22item%22%2C%22trafficType%22%3A%22organic%22%2C%22ab_buckets%22%3A%22502560_%23global-experiment-layer%23543126_%23search-common-mechanism-l1%23548824_%23search-common-mechanism-l2%23556897_%23search-common-mechanism-l3%23556468_%23search-query-recommendation-l1%23550200_%23search-query-recommendation-l2%23555650_%23search-query-recommendation-l3%23555127_%23HsAbId%23441806_%23Ha3Env%230_%23TriggerEnv%231_%23RsEnv%231_%23SpAbId%23441767%22%2C%22pvid_sys%22%3A%22aidc%20server%22%2C%22pvid%22%3A%228c2a5ef9fd6a4bd78fbe325f30d1f93c%22%2C%22search_session_id%22%3A%228047b758-51ca-4285-9e7f-05583a3a10ce%22%2C%22x_object_id%22%3A%224342904682%22%2C%22query%22%3A%22%EB%AA%AC%EC%8A%A4%ED%84%B0%20%EC%A0%9C%EB%A1%9C%22%2C%22origin_price%22%3A%2227500%22%2C%22promotion_price%22%3A%2227500%22%2C%22coupon_price%22%3A%2225030%22%7D
+
+ 
